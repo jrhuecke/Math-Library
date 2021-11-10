@@ -1,7 +1,3 @@
-Ryan Hueckel (1776448)
-
---------------------------------------------------------------------
-
 ## Assignment 2: A Small Numerical Library:
 
     This program consists of several different files with the
